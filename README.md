@@ -1,4 +1,6 @@
-- 👋 Hi, I’m @raffay2001
-- 🌱 I’m currently learning ...
-- 👀 I’m interested in ...♦WEB AND MOBILE APPLICATION DEVELOPMENT♦
-- contact me at : raffay.ahmed009@gmail.com
+I am a Computer Systems Engineering Undergraduate. My expertise lies in the following areas: 
+1- Python
+2- HTML
+3- CSS
+4- DJANGO
+Also learning Dart and Flutter for cross platform mobile app development
