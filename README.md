@@ -3,4 +3,3 @@ I am a Computer Systems Engineering Undergraduate. My expertise lies in the foll
 2- HTML
 3- CSS
 4- DJANGO
-Also learning Dart and Flutter for cross platform mobile app development
