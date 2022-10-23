@@ -22,7 +22,9 @@ src="https://img.shields.io/github/followers/raffay2001?logo=github&style=for-th
 ### My Dev Card
 
 
-![my-dev-card](<a href="https://app.daily.dev/raffay2001"><img src="https://api.daily.dev/devcards/735a12e017ce479c9f8d4b58bb8afeb6.png?r=vjm" width="400" alt="Abdul Raffay's Dev Card"/></a>)
+<p align="left">
+  !['my-dev-card'](<a href="https://app.daily.dev/raffay2001"><img src="https://api.daily.dev/devcards/735a12e017ce479c9f8d4b58bb8afeb6.png?r=vjm" width="400" alt="Abdul Raffay's Dev Card"/></a>)
+</p>
 
 ### Skills
 
