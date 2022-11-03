@@ -13,10 +13,10 @@ A junior software engineer with 2+ years of experience in software development. 
 * 🧠  I'm learning Advanced React.js, Next.js and Nest.js
 
 <p align="left">
-I love connecting with new people, give me a shout on any of the following: 
-◦ Email: raffay.ahmed009@gmail.com
-◦ LinkedIn: https://www.linkedin.com/in/abdul-raffay-b6832320b/
-◦ Whatsapp: +92-3132290956
+I love connecting with new people, give me a shout on any of the following:<br />
+◦ Email: raffay.ahmed009@gmail.com<br />
+◦ LinkedIn: https://www.linkedin.com/in/abdul-raffay-b6832320b/<br />
+◦ Whatsapp: +92-3132290956<br />
 </p>
 
 <a href="https://www.github.com/raffay2001" target="_blank" rel="noreferrer"><img
